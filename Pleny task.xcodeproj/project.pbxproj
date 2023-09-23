@@ -30,6 +30,8 @@
 		53F83B992ABF491300D812FF /* AuthRepository.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53F83B982ABF491300D812FF /* AuthRepository.swift */; };
 		53F83B9B2ABF493400D812FF /* ServerAuthRepo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53F83B9A2ABF493400D812FF /* ServerAuthRepo.swift */; };
 		53F83B9D2ABF495300D812FF /* LoginDomainModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53F83B9C2ABF495300D812FF /* LoginDomainModel.swift */; };
+		53F83BA32ABF502900D812FF /* MockAuthRepo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53F83BA22ABF502900D812FF /* MockAuthRepo.swift */; };
+		53F83BA52ABF507800D812FF /* LoginTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53F83BA42ABF507800D812FF /* LoginTests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -77,6 +79,8 @@
 		53F83B982ABF491300D812FF /* AuthRepository.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthRepository.swift; sourceTree = "<group>"; };
 		53F83B9A2ABF493400D812FF /* ServerAuthRepo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ServerAuthRepo.swift; sourceTree = "<group>"; };
 		53F83B9C2ABF495300D812FF /* LoginDomainModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginDomainModel.swift; sourceTree = "<group>"; };
+		53F83BA22ABF502900D812FF /* MockAuthRepo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MockAuthRepo.swift; sourceTree = "<group>"; };
+		53F83BA42ABF507800D812FF /* LoginTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -149,6 +153,7 @@
 			isa = PBXGroup;
 			children = (
 				537651B92ABA615E00807675 /* Pleny_taskTests.swift */,
+				53F83BA42ABF507800D812FF /* LoginTests.swift */,
 			);
 			path = "Pleny taskTests";
 			sourceTree = "<group>";
@@ -223,6 +228,7 @@
 				53F83B9C2ABF495300D812FF /* LoginDomainModel.swift */,
 				53F83B982ABF491300D812FF /* AuthRepository.swift */,
 				53F83B9A2ABF493400D812FF /* ServerAuthRepo.swift */,
+				53F83BA22ABF502900D812FF /* MockAuthRepo.swift */,
 			);
 			path = Domain;
 			sourceTree = "<group>";
@@ -414,6 +420,7 @@
 				537651DC2ABAE85D00807675 /* ApiManager.swift in Sources */,
 				537651D42ABA622400807675 /* NetworkLayer.swift in Sources */,
 				53F83B6D2ABCCF9800D812FF /* PostsViewModel.swift in Sources */,
+				53F83BA32ABF502900D812FF /* MockAuthRepo.swift in Sources */,
 				537651AA2ABA615D00807675 /* LoginView.swift in Sources */,
 				53F83B722ABCD3B900D812FF /* SearchBarView.swift in Sources */,
 				53F83B9D2ABF495300D812FF /* LoginDomainModel.swift in Sources */,
@@ -433,6 +440,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				537651BA2ABA615E00807675 /* Pleny_taskTests.swift in Sources */,
+				53F83BA52ABF507800D812FF /* LoginTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

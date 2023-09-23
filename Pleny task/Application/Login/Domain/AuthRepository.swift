@@ -8,5 +8,5 @@
 import Foundation
 
 protocol AuthRepository {
-    func login(userName: String, password: String, completion: @escaping (_ :LoginDomainModel?, _ :String?) -> Void)
+    func login(userName: String, password: String, completion: @escaping (_ :LoginDomainModel?, _ :String?) -> Void) 
 }

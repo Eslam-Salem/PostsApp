@@ -10,7 +10,6 @@ import Combine
 
 struct LoginView: View {
     @ObservedObject var viewModel: LoginViewModel
-    @ObservedObject private var postsViewModel = PostViewModel(repository: ServerGalleryRepo())
     
     var body: some View {
         NavigationView {
