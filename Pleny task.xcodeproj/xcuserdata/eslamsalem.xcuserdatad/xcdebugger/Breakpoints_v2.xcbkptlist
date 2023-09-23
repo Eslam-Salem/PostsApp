@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "44088E0A-67AF-4826-B061-04B9E4AE2328"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "69BD53FD-FAEC-4B16-8374-FA764DE28390"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pleny task/Login/LoginViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "login()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BBE3397F-8166-4881-8100-92DFDF21532A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pleny task/Posts/PostsView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "search()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9020213A-F0E9-48B1-9B86-F5A04B75B12D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pleny task/Posts/PostsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "search(context:query:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9020213A-F0E9-48B1-9B86-F5A04B75B12D - 7771d448a8a1221b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Pleny_task.PostViewModel.search(context: Pleny_task.PostViewModel.FetchPostContext, query: Swift.String) -&gt; ()"
+                  moduleName = "Pleny task"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eslamsalem/Desktop/Pleny%20task/Pleny%20task/Posts/PostsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "9020213A-F0E9-48B1-9B86-F5A04B75B12D - 7771d448a8a123fa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Pleny_task.PostViewModel.search(context: Pleny_task.PostViewModel.FetchPostContext, query: Swift.String) -&gt; ()"
+                  moduleName = "Pleny task"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eslamsalem/Desktop/Pleny%20task/Pleny%20task/Posts/PostsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "9020213A-F0E9-48B1-9B86-F5A04B75B12D - 7771d448a8a123fa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Pleny_task.PostViewModel.search(context: Pleny_task.PostViewModel.FetchPostContext, query: Swift.String) -&gt; ()"
+                  moduleName = "Pleny task"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eslamsalem/Desktop/Pleny%20task/Pleny%20task/Posts/PostsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "120">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CB235D9E-FFCB-4E86-92A7-0F0EF0039E9C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pleny task/Posts/PostsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "search(context:query:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CB235D9E-FFCB-4E86-92A7-0F0EF0039E9C - 7771d448a8a123d5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Pleny_task.PostViewModel.search(context: Pleny_task.PostViewModel.FetchPostContext, query: Swift.String) -&gt; ()"
+                  moduleName = "Pleny task"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eslamsalem/Desktop/Pleny%20task/Pleny%20task/Posts/PostsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "CB235D9E-FFCB-4E86-92A7-0F0EF0039E9C - 7771d448a8a123b4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Pleny_task.PostViewModel.search(context: Pleny_task.PostViewModel.FetchPostContext, query: Swift.String) -&gt; ()"
+                  moduleName = "Pleny task"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eslamsalem/Desktop/Pleny%20task/Pleny%20task/Posts/PostsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "CB235D9E-FFCB-4E86-92A7-0F0EF0039E9C - 7771d448a8a123b4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Pleny_task.PostViewModel.search(context: Pleny_task.PostViewModel.FetchPostContext, query: Swift.String) -&gt; ()"
+                  moduleName = "Pleny task"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eslamsalem/Desktop/Pleny%20task/Pleny%20task/Posts/PostsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "156">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1A609E3C-965E-46F5-BE3E-94F903DB7509"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pleny task/Posts/PostsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "fetchSearchedPosts(_:query:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1A609E3C-965E-46F5-BE3E-94F903DB7509 - 249389e9c395b21f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Pleny_task.PostResponseModel) -&gt; () in Pleny_task.PostViewModel.fetchSearchedPosts(_: Pleny_task.PostViewModel.FetchPostContext, query: Swift.String) -&gt; ()"
+                  moduleName = "Pleny task"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eslamsalem/Desktop/Pleny%20task/Pleny%20task/Posts/PostsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "90"
+                  endingLineNumber = "90"
+                  offsetFromSymbolStart = "236">
+               </Location>
+               <Location
+                  uuid = "1A609E3C-965E-46F5-BE3E-94F903DB7509 - 249389e9c395b23c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Pleny_task.PostResponseModel) -&gt; () in Pleny_task.PostViewModel.fetchSearchedPosts(_: Pleny_task.PostViewModel.FetchPostContext, query: Swift.String) -&gt; ()"
+                  moduleName = "Pleny task"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eslamsalem/Desktop/Pleny%20task/Pleny%20task/Posts/PostsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "244">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
